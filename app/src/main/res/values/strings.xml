@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_syria">Aleppo is the Syrian capital</string>
+    <string name="question_canada">Ottawa is Canada capital</string>
+    <string name="question_france">Paris the France capital</string>
+    <string name="question_usa">london is the USA capital</string>
+    <string name="TrueValue">True</string>
+    <string name="FalseValue">False</string>
+    <string name="Next">Next→</string>
+    <string name="previous">←Previous</string>
+    <string name="toast_correct">You are correct!</string>
+    <string name="toast_incorrect">You are incorrect!</string>
+</resources>
